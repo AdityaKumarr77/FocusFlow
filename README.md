@@ -28,36 +28,8 @@ A luxury, high-aesthetic Pomodoro Flow State & Productivity Architecture app bui
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Node.js (version 18 or newer recommended)
-- npm or pnpm or yarn
 
-### Installation & Run
-
-```bash
-# Clone the repository
-git clone https://github.com/AdityaKumarr77/FocusFlow.git
-cd FocusFlow
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-Visit [http://localhost:5173](http://localhost:5173) in your browser.
-
-### Production Build
-
-```bash
-npm run build
-npm run preview
-```
-
----
 
 ## 🏛️ Project Architecture
 
